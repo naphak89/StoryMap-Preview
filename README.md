@@ -12,11 +12,11 @@
 - Designed and developed all by me
 
 # More Recent App Demo
-https://github.com/user-attachments/assets/4739b98e-3e47-4bf9-9b47-e6b574a09db0
+https://github.com/user-attachments/assets/9cccfdba-a7e2-4322-a6a0-63fef2a52e3e
 
 **Noted that**
 - This is just a demo, not a production-grade app
-- Haven't implemented the function the cache the images, that is why the images were retrieved everytime it is displayed
+- Haven't implemented the function to cache the images, that is why the images were retrieved every time it is displayed
 - App UI/UX can be a lot more improved
 
 
