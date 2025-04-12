@@ -12,7 +12,8 @@
 - Designed and developed all by me
 
 # More Recent App Demo
-https://github.com/user-attachments/assets/9cccfdba-a7e2-4322-a6a0-63fef2a52e3e
+https://github.com/user-attachments/assets/5f137b92-d666-45d5-b7ab-afa557c94a77
+
 
 **Noted that**
 - This is just a demo, not a production-grade app
