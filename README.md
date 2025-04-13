@@ -12,7 +12,9 @@
 - Designed and developed all by me
 
 # More Recent App Demo
-https://github.com/user-attachments/assets/5f137b92-d666-45d5-b7ab-afa557c94a77
+https://github.com/user-attachments/assets/f891fa0c-4143-4cba-bce9-6a214f104cf4
+
+
 
 
 **Noted that**
