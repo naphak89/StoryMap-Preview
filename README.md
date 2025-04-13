@@ -1,6 +1,5 @@
 # StoryMap 📍
-*making friends with people who are already in your environment, but you just never meet them yet!*
-StoryMap is a Social media app for meeting new people who live their lives around you using a map of your live location
+***Making friends with people who are already in your environment, but you just never meet them yet!*** StoryMap is a Social media app for meeting new people who live their lives around you using a map of your live location
 
 ### ⚠️⚠️Attention!⚠️⚠️
 *This repository is only for showcasing the app (scroll down for the video demo). The real code for the real app will not be uploaded because this is an actual startup that I made and will be launched September 2025, stay tuned!*
