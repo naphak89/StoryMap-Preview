@@ -5,7 +5,7 @@
 *This repository is only for showcasing the app (scroll down for the video demo). The real code for the real app will not be uploaded because this is an actual startup that I made and will be launched September 2025, stay tuned!*
 
 ## Current Tech Stack
-- Firestore from Firebase for real-time database
+- Firestore from Firebase for real-time database (just for prototype, in real app will use things that are more complicated but more scalable)
 - React-native (Expo, typescript) for the app development
 - Work on Expo Development Build and Expo EAS for libraries that require native code
 - Use Mapbox for the map API ([RNMapbox](https://github.com/rnmapbox/maps))
