@@ -6,7 +6,7 @@
 # 🎥 More Recent App Demo
 https://github.com/user-attachments/assets/f891fa0c-4143-4cba-bce9-6a214f104cf4
 
-**Noted that**
+**📝 Noted that**
 - This is just a demo, not a production-grade app
 - Haven't implemented the function to cache the images, that is why the images were retrieved every time it is displayed
 - App UI/UX can be a lot more improved
