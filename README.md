@@ -1,5 +1,5 @@
 # StoryMap 📍
-***Meet new people who are already in your environment, but you just never meet them yet!*** StoryMap is a Social media app for meeting new people who live their lives around you using a map of your live location
+***Meet new people who are already in your environment, but you just never meet them yet!*** StoryMap is a Social app for meeting new people who live their lives around you using a map of your live location
 
 
 
