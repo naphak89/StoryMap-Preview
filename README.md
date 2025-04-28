@@ -1,9 +1,30 @@
-# StoryMap 📍
-***Meet new people who are already in your environment, but you just never meet them yet!*** StoryMap is a Social app for meeting new people who live their lives around you using a map of your live location
+# ~~StoryMap~~ -> HOUT! (We pivoted the project)
+~~Meet new people who are already in your environment, but you just never meet them yet!~~  ~~StoryMap is a Social app for meeting new people who live their lives around you using a map of your live location~~
+
+**-> Easiest way to make friends in 2025. HOUT! is a GenZ social media app for finding people or groups to hang out based on your interest!**
+
+# What It Does
+1) Let you find individuals with the same interest
+2) Let you gather people in groups to hangout (you can choose to accept or reject people to join the hangout group)
+   
+*See more in the demo*
+   
+# 🧨 Market Opportunity
+**HOUT! is the first mover for a social media app for making friends through casual & spontaneous hangout.**
+
+THERE IS NO DIRECT COMPETITOR for HOUT!
+- Traditional Social Medias are for your existing connections not the new ones
+- No one will follow you back on social media unless they already know you
+- Event apps like meetups and others are for formal, scheduled events which is not what we are focusing on
+- We are the first ever social app for Gen Z to make new friends through real-life casual hangouts
 
 
 
-# 🎥 More Recent App Demo
+# 🎥 HOUT! Recent App Demo
+https://github.com/user-attachments/assets/bbd85d43-1379-4bb9-a2b6-9d139763cdec
+
+
+# Old project before the pivot demo (StoryMap)
 https://github.com/user-attachments/assets/f891fa0c-4143-4cba-bce9-6a214f104cf4
 
 **📝 Noted that**
@@ -25,7 +46,7 @@ https://github.com/user-attachments/assets/f891fa0c-4143-4cba-bce9-6a214f104cf4
 Personal requirements 
 - like startup, entrepreneurship
 - Join the journey of building this startup
-- Into what I am building, think about it 24-7
+- Into what I am building
 - High commitments
 
 Technical requirement
@@ -36,19 +57,13 @@ Experienced in
 - Networking is a plus
 
 ### **2) Backend Dev**
-
 Experience in 
 - TypeScript/ JavaScript
+- Node.js, Express.js
 - React is a plus (we use React Native)
 - Basic System Design 
 - Database Management 
 - Cloud Database/ Storage 
-
-### **3) Mobile App Dev**
-
-Experience in
-- React Native
-- Swift, kotlin, java (Android) is a plus
 
 
 ### ⚠️⚠️Attention!⚠️⚠️
