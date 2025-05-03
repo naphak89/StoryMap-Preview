@@ -1,7 +1,7 @@
 # ~~StoryMap~~ -> 🍧HOUT! (We pivoted the project)
 ~~Meet new people who are already in your environment, but you just never meet them yet!~~  ~~StoryMap is a Social app for meeting new people who live their lives around you using a map of your live location~~
 
-**-> Easiest way to make friends in 2025. HOUT! is a GenZ social media app for finding people or groups to hang out based on your interest!**
+**-> HOUT! is a social media app for finding people or groups to hang out based on your interests!**
 
 # ✨What It Does
 1) Let you find individuals with the same interest
